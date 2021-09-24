@@ -1,0 +1,31 @@
+{
+  "name": "dife21",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prettier": "prettier --check src"
+  },
+  "dependencies": {
+    "framer-motion": "^4.1.17",
+    "next": "11.1.2",
+    "next-pwa": "^5.3.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@smartive/prettier-config": "^3.0.0",
+    "@tailwindcss/forms": "^0.3.3",
+    "@types/react": "17.0.20",
+    "autoprefixer": "^10.3.4",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "postcss": "^8.3.6",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.9",
+    "typescript": "4.4.2"
+  }
+}
